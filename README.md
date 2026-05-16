@@ -53,6 +53,7 @@ Si estás utilizando una terminal con GCC/G++, puedes compilar el proyecto ejecu
 
 ```bash
 g++ -std=c++11 main.cpp -o pathfinding_visualizer `pkg-config --cflags --libs opencv4`
+```
 
 ## 👥 Autores
 Este proyecto fue desarrollado colaborativamente por:
